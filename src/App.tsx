@@ -7,7 +7,7 @@ const App: React.FC = () => {
       <h1>Hello, world!</h1>
       <p>おはよ。</p>
       <br></br>
-      <p>client:{clientInfo.name}</p>
+      <p>server:{ clientInfo.name }</p>
     </div>
   );
 };
